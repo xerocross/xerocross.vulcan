@@ -1,3 +1,8 @@
+# xerocross.vulcan
+
+This is a fork of [RyanMarcus/vulcan](https://github.com/RyanMarcus/vulcan).  It will remain mostly unchanged, but that project had not been updated in 3 years and I needed to update the npm package for my own use.
+
+
 # Vulcan
 
 [ ![Codeship Status for RyanMarcus/vulcan](https://codeship.com/projects/445f6a20-3409-0133-a68d-56c8db4126b8/status?branch=master)](https://codeship.com/projects/100424)
